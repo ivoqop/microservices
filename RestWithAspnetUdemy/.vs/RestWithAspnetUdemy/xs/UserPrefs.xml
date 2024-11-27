@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9BDE84C5-BDFD-49EF-AD1E-C02309944F64}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestWithAspnetUdemy/Controllers/CalculatorController.cs">
+    <Files>
+      <File FileName="RestWithAspnetUdemy/Program.cs" Line="1" Column="1" />
+      <File FileName="RestWithAspnetUdemy/Controllers/WeatherForecastController.cs" Line="21" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestWithAspnetUdemy" expanded="True">
+            <Node name="RestWithAspnetUdemy" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RestWithAspnetUdemy PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
