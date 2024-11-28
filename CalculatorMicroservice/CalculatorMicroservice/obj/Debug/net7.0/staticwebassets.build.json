@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "80w4R6qsgYf5Lbh8zcA1y8f5JLyn1ThudZCRCsAwRxI=",
+  "Source": "CalculatorMicroservice",
+  "BasePath": "_content/CalculatorMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
