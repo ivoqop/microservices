@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{A1801A77-E544-4EAE-89D2-F8581175D993}|https">
+  <MonoDevelop.Ide.ItemProperties.PersonMicroservice PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CalculatorMicroservice PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
