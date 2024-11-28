@@ -61,8 +61,8 @@ public class CalculatorController : ControllerBase
         return BadRequest("Invalid Input");
     }
 
-    [HttpGet("average")]
-    public IActionResult GetAverage([FromQuery] string[] numbers)
+    [HttpGet("mean")]
+    public IActionResult GetMean([FromQuery] string[] numbers)
     {
         decimal sum = 0;
         int total = 0;
@@ -87,7 +87,7 @@ public class CalculatorController : ControllerBase
         return BadRequest("No valid numbers provided");
     }
 
-    [HttpGet("squareRoot/{number}")]
+    [HttpGet("square-root/{number}")]
     public IActionResult GetSqrt(string number)
     {
         if (IsNumeric(number))
